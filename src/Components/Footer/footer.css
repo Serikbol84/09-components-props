@@ -1,0 +1,21 @@
+.footer {
+    padding-bottom: 32px;
+    display: flex;
+    min-height: 200px;
+    align-items: end;
+    justify-content: end;
+    text-align: right;
+}
+
+.footer p {
+    margin: 0;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.footer-menu, a{
+    margin-bottom: 42px;
+    color: rgb(111, 109, 109);
+}
